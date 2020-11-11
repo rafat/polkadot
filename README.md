@@ -107,3 +107,9 @@ https://github.com/rafat/framedev
 [[INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959)
 
 https://drive.google.com/file/d/1aEYdl-39nfYpFBAD0F3fxH3gtupixKyQ/view?usp=sharing
+
+**Challenge 19**
+
+[[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
+
+https://github.com/rafat/pending
